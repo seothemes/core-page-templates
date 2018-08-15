@@ -1,7 +1,7 @@
 {
   "name": "d2/core-page-templates",
   "type": "library",
-  "description": "Unregister page templates through configuration.",
+  "description": "Register and unregister page templates through configuration.",
   "homepage": "https://d2themes.com/",
   "keywords": [
     "WordPress",
@@ -12,6 +12,11 @@
     {
       "name": "Craig Simpson",
       "homepage": "https://craigsimpson.scot",
+      "role": "Developer"
+    },
+    {
+      "name": "Lee Anthony",
+      "homepage": "https://seothemes.com",
       "role": "Developer"
     }
   ],
